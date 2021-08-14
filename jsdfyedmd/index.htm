@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Redirect</title>
+
+	<style>
+		html {
+			height: 100%;
+			overflow: hidden;
+		}
+		body {
+			align-items: center;
+			color: #999;
+			display: flex;
+			font-family: verdana,tahoma,sans-serif;
+			font-size: 80%;
+			height: 100%;
+			background: #000;
+		}
+		body div {
+			margin: 0 auto;
+		}
+
+		.logo-preloader {
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			width: 100px;
+			margin-left: -50px;
+			margin-top: -50px;
+			height: 100px;
+			text-align: center;
+			font-size:12px;
+		}
+
+	</style>
+
+</head>
+<body>
+
+<div class="logo-preloader">
+	<p>Loading...</p>
+</div>
+
+<script src="/assets/redirector-js/index.js" type="application/javascript"></script>
+
+<script>
+
+	var interval;
+	var counter = 0;
+	var key = 'NJAGDPWKJGJA:DE';
+	var link = 'kshtrjq63hdasd/';
+	var targetUrl = '';
+	var list = [{"http":"https://roxcasino290.com/","shift":0}, {"http":"https://roxcasino291.com/","shift":2000}, {"http":"https://roxcasino289.com/","shift":3000}];
+
+	var run = function (){
+		try {
+			counter ++;
+			if (counter > 30){
+				window.location.reload(true);
+				clearInterval(interval);
+			}
+			if ($){
+				$(document).on('ready', function (){init();});
+				clearInterval(interval);
+			}
+		} catch (e) {}
+	};
+
+	interval = setInterval (run, 500);
+	run();
+
+</script>
+
+</body>
+</html>
