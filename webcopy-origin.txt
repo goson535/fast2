@@ -1,9 +1,9 @@
 Uri: https://casifast1.azurewebsites.net/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/sample-page-2/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\sample-page-2\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\sample-page-2\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/plugins/wp-show-posts/css/wp-show-posts-min.css?ver=1.1.3
@@ -23,7 +23,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: text/css
 
 Uri: https://casifast1.azurewebsites.net/wp-json/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-json\index.htmll.json
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-json\index.html.json
 Content Type: application/json
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/pages/237
@@ -59,71 +59,71 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/casino-rating/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino-rating\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino-rating\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/top-10-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\top-10-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\top-10-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/no-deposit-casinos/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\no-deposit-casinos\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\no-deposit-casinos\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/netent/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\netent\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\netent\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/microgaming/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\microgaming\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\microgaming\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/thunderkick/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\thunderkick\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\thunderkick\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/quickspin/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\quickspin\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\quickspin\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/amatic/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\amatic\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\amatic\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/yggdrasil/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\yggdrasil\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\yggdrasil\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/pragmatic-play/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\pragmatic-play\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\pragmatic-play\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/endorphina/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\endorphina\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\endorphina\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/push-gaming/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\push-gaming\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\push-gaming\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/software/elk/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\elk\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\elk\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kazino-s-zhivimi-dilerami/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-s-zhivimi-dilerami\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-s-zhivimi-dilerami\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/partnerskie-programmi-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\partnerskie-programmi-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\partnerskie-programmi-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/rox-casino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\rox-casino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\rox-casino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/rox.html
@@ -131,7 +131,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\ro
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/jet-casino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\jet-casino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\jet-casino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/jet.html
@@ -139,7 +139,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\je
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/argo/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\argo\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\argo\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/argo.html
@@ -147,7 +147,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\ar
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/casino-x/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\casino-x\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\casino-x\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/casinox.html
@@ -155,7 +155,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\ca
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/1win-casino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win-casino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win-casino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/1win.html
@@ -163,7 +163,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\1w
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/joycasino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\joycasino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\joycasino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/joycasino.html
@@ -171,7 +171,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\jo
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/booi/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\booi\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\booi\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/booi.html
@@ -179,7 +179,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\bo
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/playfortuna/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\playfortuna\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\playfortuna\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/playfortuna.html
@@ -187,7 +187,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\pl
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/zigzag777/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\zigzag777\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\zigzag777\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/zigzag.html
@@ -195,7 +195,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\zi
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/champion/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\champion\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\champion\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/chemp.html
@@ -203,163 +203,163 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\ch
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/bitcoin/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\bitcoin\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\bitcoin\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/moneta-ru/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\moneta-ru\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\moneta-ru\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/neteller/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\neteller\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\neteller\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/qiwi/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\qiwi\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\qiwi\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/skrill/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\skrill\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\skrill\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/sms/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\sms\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\sms\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/visa-mastercard/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\visa-mastercard\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\visa-mastercard\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/webmoney/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\webmoney\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\webmoney\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/karti-mir/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\karti-mir\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\karti-mir\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/yandeks-dengi/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\yandeks-dengi\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\yandeks-dengi\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/samie-shedrie-sloti/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-shedrie-sloti\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-shedrie-sloti\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/reiting-onlain-kazino-s-licenziey/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\reiting-onlain-kazino-s-licenziey\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\reiting-onlain-kazino-s-licenziey\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/samoe-chestnoe-onlain-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samoe-chestnoe-onlain-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samoe-chestnoe-onlain-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/pervoe-online-casino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\pervoe-online-casino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\pervoe-online-casino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/luchshie-kazino-onlain/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchshie-kazino-onlain\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchshie-kazino-onlain\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kak-proverit-chestnoye-li-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-chestnoye-li-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-chestnoye-li-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/otlichiya-onlain-kazino-ot-nazemnih/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otlichiya-onlain-kazino-ot-nazemnih\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otlichiya-onlain-kazino-ot-nazemnih\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/otvetstvennaya-igra-v-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otvetstvennaya-igra-v-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otvetstvennaya-igra-v-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/type/bonusi-na-depozit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\bonusi-na-depozit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\bonusi-na-depozit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/booi-bonus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\booi-bonus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\booi-bonus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/champion-casino-bonus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\champion-casino-bonus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\champion-casino-bonus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/playfortuna-bonus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\playfortuna-bonus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\playfortuna-bonus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/samie-viigrishnie-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-viigrishnie-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-viigrishnie-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kak-bistree-vivesti-viigrish-iz-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-bistree-vivesti-viigrish-iz-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-bistree-vivesti-viigrish-iz-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/rtp-return-to-player/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\rtp-return-to-player\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\rtp-return-to-player\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/1st-deposit-bonus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\1st-deposit-bonus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\1st-deposit-bonus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino-account-verification/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino-account-verification\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino-account-verification\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/best-online-casino-deposit-methods/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\best-online-casino-deposit-methods\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\best-online-casino-deposit-methods\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kak-poluchit-vigodu-ot-igri-v-onlain-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-poluchit-vigodu-ot-igri-v-onlain-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-poluchit-vigodu-ot-igri-v-onlain-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/chto-takoe-bonusi-v-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chto-takoe-bonusi-v-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chto-takoe-bonusi-v-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slot-money-train/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slot-money-train\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slot-money-train\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/1win/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/flame-busters/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\flame-busters\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\flame-busters\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/peking-luck/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\peking-luck\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\peking-luck\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/igrovie-avtomati-vulcan-besplatno/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\igrovie-avtomati-vulcan-besplatno\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\igrovie-avtomati-vulcan-besplatno\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/category/без-рубрики/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\без-рубрики\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\без-рубрики\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/category/no-deposit-casinos/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\no-deposit-casinos\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\no-deposit-casinos\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/category/blog/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\blog\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\blog\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/category/guides/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\guides\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\guides\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/category/казино-по-старанам/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\казино-по-старанам\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\казино-по-старанам\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/12/fastcasinos-4.png
@@ -695,43 +695,43 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\index
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/frank-casino-freespins/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frank-casino-freespins\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frank-casino-freespins\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/freespins-drift-casino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-drift-casino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-drift-casino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/sloto-lunch-mister-bit-freespins/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\sloto-lunch-mister-bit-freespins\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\sloto-lunch-mister-bit-freespins\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/secret-freespins-columbus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\secret-freespins-columbus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\secret-freespins-columbus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/200-freespins-casino-x/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-casino-x\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-casino-x\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/200-freespins-joycasino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-joycasino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-joycasino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/zvezdnoe-vremya-Maxbet/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\zvezdnoe-vremya-Maxbet\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\zvezdnoe-vremya-Maxbet\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/freespins-po-sredam-bitstarz/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-po-sredam-bitstarz\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-po-sredam-bitstarz\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/frispini-po-ponedelnikam-playamo/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frispini-po-ponedelnikam-playamo\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frispini-po-ponedelnikam-playamo\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/bonus-na-deposit-bitstarz/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\bonus-na-deposit-bitstarz\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\bonus-na-deposit-bitstarz\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2020/02/reiting_kazino.png
@@ -851,15 +851,15 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/bonus/page/2/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\page\2\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\page\2\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/type/фриспины/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\фриспины\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\фриспины\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/go/drift.html
@@ -871,15 +871,15 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\mr
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/kazino-columbus-bonus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\kazino-columbus-bonus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\kazino-columbus-bonus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wager/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wager\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wager\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/softswiss-casinos/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\softswiss-casinos\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\softswiss-casinos\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/10/kazino-bonus.png
@@ -915,39 +915,39 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/ivi-casino-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ivi-casino-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ivi-casino-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/zigzag777-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\zigzag777-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\zigzag777-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/argo-no-deposit-bonus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\argo-no-deposit-bonus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\argo-no-deposit-bonus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/playfortuna-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playfortuna-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playfortuna-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/riobet-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\riobet-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\riobet-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/aplay-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aplay-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aplay-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slotv-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slotv-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slotv-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/playamo-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playamo-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playamo-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bitstarz-casino-no-deposit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bitstarz-casino-no-deposit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bitstarz-casino-no-deposit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.css?ver=2.1.4
@@ -1047,83 +1047,83 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/page/2/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\page\2\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\page\2\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/razortooth/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\razortooth\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\razortooth\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/six-acrobats/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\six-acrobats\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\six-acrobats\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/the-finer-reels-of-life/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-finer-reels-of-life\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-finer-reels-of-life\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/big-bad-wolf/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\big-bad-wolf\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\big-bad-wolf\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/madame-destiny/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\madame-destiny\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\madame-destiny\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/pink-elephants/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pink-elephants\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pink-elephants\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/the-falcon-huntress/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-falcon-huntress\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-falcon-huntress\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/midas-golden-touch/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\midas-golden-touch\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\midas-golden-touch\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/avalon-2-quest-for-the-grail/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\avalon-2-quest-for-the-grail\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\avalon-2-quest-for-the-grail\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/bust-the-bank/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\bust-the-bank\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\bust-the-bank\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/playboy/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\playboy\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\playboy\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/terminator-2-judgment-day/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\terminator-2-judgment-day\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\terminator-2-judgment-day\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/game-of-thrones/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\game-of-thrones\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\game-of-thrones\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/girls-with-guns-frozen-dawn/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\girls-with-guns-frozen-dawn\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\girls-with-guns-frozen-dawn\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/immortal-romance/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\immortal-romance\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\immortal-romance\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/jack-and-the-beanstalk/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jack-and-the-beanstalk\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jack-and-the-beanstalk\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/wish-master/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\wish-master\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\wish-master\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/victorious/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\victorious\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\victorious\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/10/razortooth-slot.jpg
@@ -1207,31 +1207,31 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/hotline/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\hotline\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\hotline\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/jungle-spirit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jungle-spirit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jungle-spirit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/divine-fortune/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\divine-fortune\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\divine-fortune\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/space-wars/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\space-wars\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\space-wars\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/vikings/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\vikings\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\vikings\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/dead-or-alive-2/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\dead-or-alive-2\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\dead-or-alive-2\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/narcos/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\narcos\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\narcos\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/netent_logo.png
@@ -1275,7 +1275,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/pretty-kitty/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pretty-kitty\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pretty-kitty\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/js-microgaming-provider-logo.png
@@ -1291,7 +1291,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/fruit-warp/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\fruit-warp\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\fruit-warp\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/js-thunderkick-provider.png
@@ -1307,7 +1307,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/sakura-fortune/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\sakura-fortune\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\sakura-fortune\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/quickspin-provider.png
@@ -1339,7 +1339,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/software/amatic/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\amatic\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\amatic\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/amatic-b.png
@@ -1351,7 +1351,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/software/yggdrasil/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\yggdrasil\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\yggdrasil\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/yggdrasil-logotype.png
@@ -1371,7 +1371,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/software/endorphina/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\endorphina\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\endorphina\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/endorphina.png
@@ -1383,7 +1383,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/software/push-gaming/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\push-gaming\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\push-gaming\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/PushGamingLogoColour.png
@@ -1403,7 +1403,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/software/elk/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\elk\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\software\elk\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/elk_studios_b.png
@@ -1491,7 +1491,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/casino/rox-casino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\rox-casino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\rox-casino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Frox-casino%2F
@@ -1503,11 +1503,11 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/casino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/category/news/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\news\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\news\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/themes/jGambling/assets/img/svg/allow.svg
@@ -1559,7 +1559,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/casino/jet-casino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\jet-casino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\jet-casino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fjet-casino%2F
@@ -1575,7 +1575,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/casino/argo/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\argo\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\argo\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fargo%2F
@@ -1607,7 +1607,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/casino/casino-x/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\casino-x\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\casino-x\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fcasino-x%2F
@@ -1631,7 +1631,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/casino/1win-casino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win-casino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win-casino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2F1win-casino%2F
@@ -1675,7 +1675,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casin
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/joycasino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\joycasino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\joycasino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fjoycasino%2F
@@ -1699,7 +1699,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/casino/booi/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\booi\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\booi\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fbooi%2F
@@ -1723,7 +1723,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/casino/playfortuna/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\playfortuna\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\playfortuna\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fplayfortuna%2F
@@ -1743,7 +1743,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/casino/zigzag777/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\zigzag777\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\zigzag777\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fzigzag777%2F
@@ -1767,7 +1767,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/casino/champion/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\champion\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\champion\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2Fchampion%2F
@@ -1795,7 +1795,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\go\Rx
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/bitcoin/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\bitcoin\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\bitcoin\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/bitcoin-kazino.png
@@ -1811,7 +1811,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/moneta-ru/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\moneta-ru\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\moneta-ru\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/moneta-ru-kazino.png
@@ -1827,7 +1827,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/neteller/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\neteller\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\neteller\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/Neteller-kazino.png
@@ -1843,11 +1843,11 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/qiwi/page/2/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\qiwi\page\2\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\qiwi\page\2\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/deposit/qiwi/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\qiwi\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\qiwi\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/qiwi-kazino.png
@@ -1859,7 +1859,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/skrill/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\skrill\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\skrill\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/skrill-kazino.png
@@ -1879,7 +1879,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/sms/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\sms\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\sms\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/sms-casinos.png
@@ -1895,7 +1895,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/visa-mastercard/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\visa-mastercard\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\visa-mastercard\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/visa-mastercard-casinos.png
@@ -1911,7 +1911,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/webmoney/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\webmoney\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\webmoney\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/webmoney-casinos.png
@@ -1927,11 +1927,11 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/deposit/karti-mir/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\karti-mir\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\karti-mir\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/deposit/yandeks-dengi/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\yandeks-dengi\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\deposit\yandeks-dengi\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/yandex-dengi-kazino.png
@@ -1947,7 +1947,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/samie-shedrie-sloti/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-shedrie-sloti\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-shedrie-sloti\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1361
@@ -1959,7 +1959,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\index
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/reiting-onlain-kazino-s-licenziey/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\reiting-onlain-kazino-s-licenziey\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\reiting-onlain-kazino-s-licenziey\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1316
@@ -2007,7 +2007,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/samoe-chestnoe-onlain-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samoe-chestnoe-onlain-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samoe-chestnoe-onlain-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1295
@@ -2039,7 +2039,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/luchshie-kazino-onlain/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchshie-kazino-onlain\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchshie-kazino-onlain\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1227
@@ -2071,7 +2071,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kak-proverit-chestnoye-li-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-chestnoye-li-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-chestnoye-li-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1159
@@ -2087,7 +2087,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/otlichiya-onlain-kazino-ot-nazemnih/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otlichiya-onlain-kazino-ot-nazemnih\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otlichiya-onlain-kazino-ot-nazemnih\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1113
@@ -2119,7 +2119,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/otvetstvennaya-igra-v-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otvetstvennaya-igra-v-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\otvetstvennaya-igra-v-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1106
@@ -2147,7 +2147,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/type/bonusi-na-depozit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\bonusi-na-depozit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\bonusi-na-depozit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/super-bonus.png
@@ -2159,7 +2159,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/bonus/booi-bonus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\booi-bonus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\booi-bonus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fbooi-bonus%2F
@@ -2179,7 +2179,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/champion-casino-bonus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\champion-casino-bonus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\champion-casino-bonus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fchampion-casino-bonus%2F
@@ -2207,7 +2207,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/playfortuna-bonus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\playfortuna-bonus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\playfortuna-bonus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fplayfortuna-bonus%2F
@@ -2223,7 +2223,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/samie-viigrishnie-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-viigrishnie-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-viigrishnie-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1309
@@ -2251,7 +2251,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kak-bistree-vivesti-viigrish-iz-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-bistree-vivesti-viigrish-iz-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-bistree-vivesti-viigrish-iz-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1209
@@ -2283,7 +2283,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/rtp-return-to-player/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\rtp-return-to-player\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\rtp-return-to-player\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1099
@@ -2323,7 +2323,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/1st-deposit-bonus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\1st-deposit-bonus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\1st-deposit-bonus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/992
@@ -2355,7 +2355,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/casino-account-verification/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino-account-verification\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino-account-verification\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/985
@@ -2399,7 +2399,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/best-online-casino-deposit-methods/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\best-online-casino-deposit-methods\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\best-online-casino-deposit-methods\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/981
@@ -2431,7 +2431,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kak-poluchit-vigodu-ot-igri-v-onlain-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-poluchit-vigodu-ot-igri-v-onlain-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-poluchit-vigodu-ot-igri-v-onlain-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/977
@@ -2463,7 +2463,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/chto-takoe-bonusi-v-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chto-takoe-bonusi-v-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chto-takoe-bonusi-v-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/945
@@ -2487,7 +2487,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slot-money-train/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slot-money-train\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slot-money-train\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1037
@@ -2515,7 +2515,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/casino/1win/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\1win\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fcasino%2F1win%2F
@@ -2527,7 +2527,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/slots/flame-busters/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\flame-busters\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\flame-busters\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fflame-busters%2F
@@ -2547,7 +2547,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/peking-luck/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\peking-luck\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\peking-luck\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fpeking-luck%2F
@@ -2579,7 +2579,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/igrovie-avtomati-vulcan-besplatno/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\igrovie-avtomati-vulcan-besplatno\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\igrovie-avtomati-vulcan-besplatno\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/933
@@ -2595,7 +2595,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/azino777/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\azino777\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\azino777\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/09/vulcan-avtomati.png
@@ -2619,7 +2619,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/category/без-рубрики/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\без-рубрики\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\без-рубрики\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/categories/1
@@ -2627,15 +2627,15 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: application/json
 
 Uri: https://casifast1.azurewebsites.net/звёздное-время-в-казино-argo/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\звёздное-время-в-казино-argo\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\звёздное-время-в-казино-argo\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/aktualnoe-zerkalo-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aktualnoe-zerkalo-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aktualnoe-zerkalo-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/category/no-deposit-casinos/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\no-deposit-casinos\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\no-deposit-casinos\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/categories/103
@@ -2679,7 +2679,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/category/blog/page/2/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\blog\page\2\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\blog\page\2\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/categories/106
@@ -2687,7 +2687,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: application/json
 
 Uri: https://casifast1.azurewebsites.net/kak-perestat-igrat-v-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-perestat-igrat-v-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-perestat-igrat-v-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2020/01/samie-shedrie-sloti-200x200.jpg
@@ -2731,7 +2731,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/category/guides/page/2/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\guides\page\2\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\guides\page\2\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/categories/65
@@ -2739,11 +2739,11 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: application/json
 
 Uri: https://casifast1.azurewebsites.net/samie-populyarnie-onlain-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-populyarnie-onlain-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-populyarnie-onlain-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kazino-ne-platit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-ne-platit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-ne-platit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/12/samie-viigrishnie-kazino-200x200.jpg
@@ -2787,7 +2787,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/category/казино-по-старанам/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\казино-по-старанам\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\казино-по-старанам\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/categories/136
@@ -2795,19 +2795,19 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: application/json
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-rossii/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-rossii\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-rossii\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-kazahstana/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-kazahstana\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-kazahstana\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-belarusi/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-belarusi\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-belarusi\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-ukraini/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-ukraini\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-ukraini\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/onlain-kazino-dlya-rossii-200x200.png
@@ -2839,7 +2839,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\index
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/frank-casino-freespins/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frank-casino-freespins\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frank-casino-freespins\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Ffrank-casino-freespins%2F
@@ -2863,7 +2863,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/bonus/freespins-drift-casino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-drift-casino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-drift-casino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Ffreespins-drift-casino%2F
@@ -2895,7 +2895,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/sloto-lunch-mister-bit-freespins/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\sloto-lunch-mister-bit-freespins\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\sloto-lunch-mister-bit-freespins\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fsloto-lunch-mister-bit-freespins%2F
@@ -2919,7 +2919,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/secret-freespins-columbus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\secret-freespins-columbus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\secret-freespins-columbus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fsecret-freespins-columbus%2F
@@ -2943,7 +2943,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/200-freespins-casino-x/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-casino-x\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-casino-x\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2F200-freespins-casino-x%2F
@@ -2975,7 +2975,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/200-freespins-joycasino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-joycasino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\200-freespins-joycasino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2F200-freespins-joycasino%2F
@@ -3007,7 +3007,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/zvezdnoe-vremya-Maxbet/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\zvezdnoe-vremya-Maxbet\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\zvezdnoe-vremya-Maxbet\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fzvezdnoe-vremya-Maxbet%2F
@@ -3031,7 +3031,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/freespins-po-sredam-bitstarz/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-po-sredam-bitstarz\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\freespins-po-sredam-bitstarz\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Ffreespins-po-sredam-bitstarz%2F
@@ -3055,7 +3055,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/frispini-po-ponedelnikam-playamo/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frispini-po-ponedelnikam-playamo\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\frispini-po-ponedelnikam-playamo\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Ffrispini-po-ponedelnikam-playamo%2F
@@ -3079,7 +3079,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bonus/bonus-na-deposit-bitstarz/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\bonus-na-deposit-bitstarz\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\bonus-na-deposit-bitstarz\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fbonus-na-deposit-bitstarz%2F
@@ -3107,7 +3107,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\promo
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/type/фриспины/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\фриспины\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\type\фриспины\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://driftasino.online/?ref=c6d6d26741ad65d6db2643d256ddbb67&sub=2
@@ -3119,7 +3119,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\promo
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/bonus/kazino-columbus-bonus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\kazino-columbus-bonus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bonus\kazino-columbus-bonus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fbonus%2Fkazino-columbus-bonus%2F
@@ -3131,7 +3131,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/wager/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wager\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wager\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/292
@@ -3147,7 +3147,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/softswiss-casinos/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\softswiss-casinos\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\softswiss-casinos\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/544
@@ -3171,7 +3171,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/ivi-casino-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ivi-casino-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ivi-casino-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/461
@@ -3195,7 +3195,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/zigzag777-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\zigzag777-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\zigzag777-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/458
@@ -3215,7 +3215,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/gif
 
 Uri: https://casifast1.azurewebsites.net/argo-no-deposit-bonus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\argo-no-deposit-bonus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\argo-no-deposit-bonus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/453
@@ -3235,7 +3235,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/gif
 
 Uri: https://casifast1.azurewebsites.net/playfortuna-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playfortuna-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playfortuna-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/521
@@ -3263,7 +3263,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/riobet-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\riobet-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\riobet-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/515
@@ -3291,7 +3291,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/aplay-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aplay-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aplay-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/511
@@ -3319,7 +3319,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slotv-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slotv-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slotv-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/506
@@ -3347,7 +3347,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/playamo-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playamo-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\playamo-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/502
@@ -3375,7 +3375,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/bitstarz-casino-no-deposit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bitstarz-casino-no-deposit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\bitstarz-casino-no-deposit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/495
@@ -3403,11 +3403,11 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/page/3/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\page\3\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\page\3\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/slots/razortooth/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\razortooth\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\razortooth\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Frazortooth%2F
@@ -3447,7 +3447,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/six-acrobats/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\six-acrobats\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\six-acrobats\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fsix-acrobats%2F
@@ -3491,7 +3491,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/the-finer-reels-of-life/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-finer-reels-of-life\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-finer-reels-of-life\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fthe-finer-reels-of-life%2F
@@ -3531,7 +3531,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/big-bad-wolf/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\big-bad-wolf\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\big-bad-wolf\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fbig-bad-wolf%2F
@@ -3571,7 +3571,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/madame-destiny/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\madame-destiny\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\madame-destiny\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fmadame-destiny%2F
@@ -3599,7 +3599,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/pink-elephants/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pink-elephants\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pink-elephants\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fpink-elephants%2F
@@ -3631,7 +3631,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/the-falcon-huntress/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-falcon-huntress\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\the-falcon-huntress\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fthe-falcon-huntress%2F
@@ -3663,7 +3663,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/midas-golden-touch/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\midas-golden-touch\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\midas-golden-touch\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fmidas-golden-touch%2F
@@ -3691,7 +3691,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/avalon-2-quest-for-the-grail/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\avalon-2-quest-for-the-grail\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\avalon-2-quest-for-the-grail\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Favalon-2-quest-for-the-grail%2F
@@ -3731,7 +3731,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/bust-the-bank/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\bust-the-bank\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\bust-the-bank\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fbust-the-bank%2F
@@ -3759,7 +3759,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/playboy/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\playboy\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\playboy\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fplayboy%2F
@@ -3791,7 +3791,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/terminator-2-judgment-day/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\terminator-2-judgment-day\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\terminator-2-judgment-day\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fterminator-2-judgment-day%2F
@@ -3823,7 +3823,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/game-of-thrones/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\game-of-thrones\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\game-of-thrones\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fgame-of-thrones%2F
@@ -3879,7 +3879,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/girls-with-guns-frozen-dawn/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\girls-with-guns-frozen-dawn\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\girls-with-guns-frozen-dawn\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fgirls-with-guns-frozen-dawn%2F
@@ -3899,7 +3899,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/immortal-romance/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\immortal-romance\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\immortal-romance\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fimmortal-romance%2F
@@ -3927,7 +3927,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/jack-and-the-beanstalk/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jack-and-the-beanstalk\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jack-and-the-beanstalk\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fjack-and-the-beanstalk%2F
@@ -3955,7 +3955,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/wish-master/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\wish-master\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\wish-master\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fwish-master%2F
@@ -3991,7 +3991,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/victorious/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\victorious\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\victorious\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fvictorious%2F
@@ -4023,7 +4023,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/hotline/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\hotline\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\hotline\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fhotline%2F
@@ -4059,7 +4059,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/jungle-spirit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jungle-spirit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\jungle-spirit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fjungle-spirit%2F
@@ -4079,7 +4079,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/divine-fortune/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\divine-fortune\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\divine-fortune\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fdivine-fortune%2F
@@ -4099,7 +4099,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/space-wars/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\space-wars\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\space-wars\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fspace-wars%2F
@@ -4119,7 +4119,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/vikings/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\vikings\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\vikings\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fvikings%2F
@@ -4139,7 +4139,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/dead-or-alive-2/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\dead-or-alive-2\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\dead-or-alive-2\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fdead-or-alive-2%2F
@@ -4167,7 +4167,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/slots/narcos/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\narcos\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\narcos\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fnarcos%2F
@@ -4187,7 +4187,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/pretty-kitty/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pretty-kitty\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\pretty-kitty\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fpretty-kitty%2F
@@ -4211,7 +4211,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/fruit-warp/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\fruit-warp\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\fruit-warp\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Ffruit-warp%2F
@@ -4231,7 +4231,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/slots/sakura-fortune/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\sakura-fortune\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\slots\sakura-fortune\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcasifast1.azurewebsites.net%2Fslots%2Fsakura-fortune%2F
@@ -4307,15 +4307,15 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/casino/page/2/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\page\2\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\page\2\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/casino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\casino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/category/news/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\news\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\news\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/categories/4
@@ -4327,7 +4327,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\cbee6
 Content Type: text/html
 
 Uri: https://pgtrs.kljtyklrjety.com/jsdfyedmd/?stag=177509_610ac44273984b4dbac68119
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\jsdfyedmd\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\jsdfyedmd\index.html
 Content Type: text/html
 
 Uri: https://jetb-media1.com/cc6074b08
@@ -4335,11 +4335,11 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\cc607
 Content Type: text/html
 
 Uri: https://apple.raspb.vip/jastyg/?stag=177509_610ac48673984b4dbac68124
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\jastyg\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\jastyg\index.html
 Content Type: text/html
 
 Uri: https://v-clb24.com/register/?atp=seo_176265&bnid=24222&clickid=889611f7610ac4c80e8e5651990844&goto=sitereg&plid=9359&uuid=a19c8585fdb541ef5ad44f2ee911da96bfa4c032
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\register\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\register\index.html
 Content Type: text/html
 
 Uri: https://casino-x1258.com/ru/registration/short-two?partner=p15899p3126466p1d4f&apkpop=0&promo=176252&source=7d9611f7610ac50976428647238457
@@ -4359,11 +4359,11 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\cGxhe
 Content Type: text/html
 
 Uri: https://6.2.12zigzag777.com/ru/?btag=a_2015b_276c_&affid=1559&siteid=2015&adid=276&c=&registration=
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ru\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ru\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/azino777/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\azino777\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\azino777\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/548
@@ -4391,7 +4391,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/звёздное-время-в-казино-argo/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\звёздное-время-в-казино-argo\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\звёздное-время-в-казино-argo\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1130
@@ -4407,7 +4407,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/aktualnoe-zerkalo-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aktualnoe-zerkalo-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\aktualnoe-zerkalo-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/1308
@@ -4423,43 +4423,43 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/category/blog/page/3/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\blog\page\3\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\blog\page\3\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/club-admiralov-v-kazino-columbus/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\club-admiralov-v-kazino-columbus\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\club-admiralov-v-kazino-columbus\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/evgeniy-kuzin-strimer-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\evgeniy-kuzin-strimer-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\evgeniy-kuzin-strimer-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kakoe-kazino-lucshe/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kakoe-kazino-lucshe\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kakoe-kazino-lucshe\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kazino-s-bonusom-na-depozit/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-s-bonusom-na-depozit\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-s-bonusom-na-depozit\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kazino-na-rubli/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-na-rubli\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-na-rubli\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/vavada-chie-eto-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\vavada-chie-eto-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\vavada-chie-eto-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/gamecasinos-ru-reiting-kazino-proverenniy-vremenem/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\gamecasinos-ru-reiting-kazino-proverenniy-vremenem\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\gamecasinos-ru-reiting-kazino-proverenniy-vremenem\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/luchie-kazino-dlya-hairollerov/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchie-kazino-dlya-hairollerov\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchie-kazino-dlya-hairollerov\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/chestnie-onlain-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chestnie-onlain-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chestnie-onlain-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/09/igrovie-avtomati-besplatno-200x200.jpg
@@ -4503,7 +4503,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kak-perestat-igrat-v-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-perestat-igrat-v-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-perestat-igrat-v-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/996
@@ -4543,39 +4543,39 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/category/guides/page/3/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\guides\page\3\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\category\guides\page\3\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/viigrivayut-li-v-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\viigrivayut-li-v-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\viigrivayut-li-v-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/razmer-depozita-v-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\razmer-depozita-v-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\razmer-depozita-v-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/pravila-igri-v-blacklack/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\pravila-igri-v-blacklack\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\pravila-igri-v-blacklack\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/online-casino-na-dengi/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\online-casino-na-dengi\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\online-casino-na-dengi\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/novie-onlain-kazino-2019/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\novie-onlain-kazino-2019\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\novie-onlain-kazino-2019\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/stoit-li-brat-bonusi-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\stoit-li-brat-bonusi-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\stoit-li-brat-bonusi-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/verifikacia-akkaunta-v-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\verifikacia-akkaunta-v-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\verifikacia-akkaunta-v-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/realno-li-viigrat-v-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\realno-li-viigrat-v-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\realno-li-viigrat-v-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/08/viigral-v-kazino-200x200.jpg
@@ -4619,7 +4619,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/samie-populyarnie-onlain-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-populyarnie-onlain-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\samie-populyarnie-onlain-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/923
@@ -4655,7 +4655,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/kazino-ne-platit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-ne-platit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-ne-platit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/875
@@ -4707,7 +4707,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-rossii/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-rossii\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-rossii\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/863
@@ -4743,7 +4743,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-kazahstana/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-kazahstana\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-kazahstana\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/856
@@ -4783,7 +4783,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-belarusi/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-belarusi\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-belarusi\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/847
@@ -4819,7 +4819,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-dlya-ukraini/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-ukraini\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-dlya-ukraini\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/839
@@ -4855,39 +4855,39 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/kak-proverit-licenziyu-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-licenziyu-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-licenziyu-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kazino-dlya-android/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-dlya-android\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-dlya-android\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-s-vivodom-deneg-na-kartu/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-s-vivodom-deneg-na-kartu\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-s-vivodom-deneg-na-kartu\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/registracia-v-onlain-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\registracia-v-onlain-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\registracia-v-onlain-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/krupneishie-onlain-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\krupneishie-onlain-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\krupneishie-onlain-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/oficialnie-kazino-rossii/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\oficialnie-kazino-rossii\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\oficialnie-kazino-rossii\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/kak-igrat-v-sloti/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-igrat-v-sloti\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-igrat-v-sloti\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/limiti-vivoda-is-kazino/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\limiti-vivoda-is-kazino\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\limiti-vivoda-is-kazino\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/ludojop-casino-streamer/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ludojop-casino-streamer\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ludojop-casino-streamer\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/07/kak_proverit_licenziyu_kazino-200x200.jpg
@@ -4927,7 +4927,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/club-admiralov-v-kazino-columbus/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\club-admiralov-v-kazino-columbus\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\club-admiralov-v-kazino-columbus\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/870
@@ -4955,7 +4955,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/evgeniy-kuzin-strimer-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\evgeniy-kuzin-strimer-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\evgeniy-kuzin-strimer-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/830
@@ -4991,7 +4991,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/kakoe-kazino-lucshe/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kakoe-kazino-lucshe\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kakoe-kazino-lucshe\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/822
@@ -5035,7 +5035,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kazino-s-bonusom-na-depozit/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-s-bonusom-na-depozit\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-s-bonusom-na-depozit\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/816
@@ -5063,7 +5063,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kazino-na-rubli/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-na-rubli\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-na-rubli\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/808
@@ -5107,7 +5107,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/vavada-chie-eto-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\vavada-chie-eto-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\vavada-chie-eto-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/775
@@ -5131,7 +5131,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/gamecasinos-ru-reiting-kazino-proverenniy-vremenem/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\gamecasinos-ru-reiting-kazino-proverenniy-vremenem\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\gamecasinos-ru-reiting-kazino-proverenniy-vremenem\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/757
@@ -5159,7 +5159,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/luchie-kazino-dlya-hairollerov/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchie-kazino-dlya-hairollerov\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\luchie-kazino-dlya-hairollerov\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/733
@@ -5235,7 +5235,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/chestnie-onlain-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chestnie-onlain-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\chestnie-onlain-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/727
@@ -5267,7 +5267,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/progressive-jackpot/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\progressive-jackpot\index.htmll
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\progressive-jackpot\index.html
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/wp-content/uploads/2019/06/progressive_jackpot-200x200.jpg
@@ -5279,7 +5279,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/viigrivayut-li-v-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\viigrivayut-li-v-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\viigrivayut-li-v-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/801
@@ -5311,7 +5311,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/razmer-depozita-v-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\razmer-depozita-v-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\razmer-depozita-v-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/720
@@ -5343,7 +5343,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/pravila-igri-v-blacklack/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\pravila-igri-v-blacklack\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\pravila-igri-v-blacklack\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/714
@@ -5367,7 +5367,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/online-casino-na-dengi/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\online-casino-na-dengi\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\online-casino-na-dengi\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/568
@@ -5391,7 +5391,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/novie-onlain-kazino-2019/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\novie-onlain-kazino-2019\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\novie-onlain-kazino-2019\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/442
@@ -5419,7 +5419,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/stoit-li-brat-bonusi-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\stoit-li-brat-bonusi-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\stoit-li-brat-bonusi-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/312
@@ -5443,7 +5443,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/verifikacia-akkaunta-v-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\verifikacia-akkaunta-v-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\verifikacia-akkaunta-v-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/309
@@ -5467,7 +5467,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/realno-li-viigrat-v-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\realno-li-viigrat-v-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\realno-li-viigrat-v-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/306
@@ -5483,7 +5483,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-js
 Content Type: text/xml
 
 Uri: https://casifast1.azurewebsites.net/kak-proverit-licenziyu-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-licenziyu-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-proverit-licenziyu-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/659
@@ -5507,7 +5507,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kazino-dlya-android/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-dlya-android\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kazino-dlya-android\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/631
@@ -5539,7 +5539,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/onlain-kazino-s-vivodom-deneg-na-kartu/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-s-vivodom-deneg-na-kartu\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\onlain-kazino-s-vivodom-deneg-na-kartu\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/625
@@ -5571,7 +5571,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/registracia-v-onlain-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\registracia-v-onlain-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\registracia-v-onlain-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/619
@@ -5603,7 +5603,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/krupneishie-onlain-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\krupneishie-onlain-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\krupneishie-onlain-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/610
@@ -5631,7 +5631,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/oficialnie-kazino-rossii/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\oficialnie-kazino-rossii\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\oficialnie-kazino-rossii\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/601
@@ -5659,7 +5659,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/kak-igrat-v-sloti/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-igrat-v-sloti\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\kak-igrat-v-sloti\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/580
@@ -5695,7 +5695,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/png
 
 Uri: https://casifast1.azurewebsites.net/limiti-vivoda-is-kazino/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\limiti-vivoda-is-kazino\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\limiti-vivoda-is-kazino\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/574
@@ -5727,7 +5727,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\wp-co
 Content Type: image/jpeg
 
 Uri: https://casifast1.azurewebsites.net/ludojop-casino-streamer/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ludojop-casino-streamer\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\ludojop-casino-streamer\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/559
@@ -5763,7 +5763,7 @@ File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\index
 Content Type: text/html
 
 Uri: https://casifast1.azurewebsites.net/progressive-jackpot/feed/
-File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\progressive-jackpot\feed\index.htmll.rss
+File Name: C:\Users\Denis\Downloads\fastreplay\casifast1.azurewebsites.net\progressive-jackpot\feed\index.html.rss
 Content Type: application/rss+xml
 
 Uri: https://casifast1.azurewebsites.net/wp-json/wp/v2/posts/303
