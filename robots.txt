@@ -66,6 +66,7 @@ Disallow: /tag/ # Закрываем метки
 Disallow: /readme.html
 Disallow: *?replytocom
 Disallow: /casino/
+Disallow: /*index.html
 Allow: */uploads
 Allow: /*/*.js
 Allow: /*/*.css
