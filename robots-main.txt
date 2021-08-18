@@ -12,6 +12,7 @@ Disallow: */feed
 Disallow: */rss
 Disallow: */embed
 Disallow: /xmlrpc.php
+Disallow: /index.html
 Disallow: *utm=
 Disallow: *openstat=
 Disallow: /tag/ # Закрываем метки
