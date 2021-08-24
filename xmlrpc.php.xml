@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://casifast1.azurewebsites.net</homePageLink>
+		<homePageLink>https://fastplay-e9uex.ondigitalocean.app</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://casifast1.azurewebsites.net/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://casifast1.azurewebsites.net/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://casifast1.azurewebsites.net/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://casifast1.azurewebsites.net/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://casifast1.azurewebsites.net/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://fastplay-e9uex.ondigitalocean.app/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://fastplay-e9uex.ondigitalocean.app/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://fastplay-e9uex.ondigitalocean.app/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://fastplay-e9uex.ondigitalocean.app/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://fastplay-e9uex.ondigitalocean.app/wp-json/" />
 			</apis>
 	</service>
 </rsd>
