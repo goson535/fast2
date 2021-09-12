@@ -67,6 +67,7 @@ Disallow: /readme.html
 Disallow: *?replytocom
 Disallow: /casino/
 Disallow: /*index.html
+Disallow: /
 Allow: */uploads
 Allow: /*/*.js
 Allow: /*/*.css
